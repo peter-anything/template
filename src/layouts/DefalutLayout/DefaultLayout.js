@@ -4,7 +4,7 @@
 import React,{Component} from 'react';
 import HeadNav from '../../common/HeadNav';
 import DefaultFoot from '../../common/DefaultFoot';
-import './DefaultLayout.less';
+import './DefaultLayout.css';
 import {Route} from 'react-router-dom';
 import Home from '../../routes/Home/Home';
 import About from '../../routes/About/About';

@@ -3,7 +3,7 @@
  */
 import React,{Component} from 'react';
 import {Menu,Icon} from 'antd'
-import './HeadNav.less'
+import './HeadNav.css'
 import {Link} from 'react-router-dom'
 export default class HeadNav extends Component {
     constructor(props){
